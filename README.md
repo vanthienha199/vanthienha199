@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi I'm Ha 👋</h1>
 
-<!--
-**vanthienha199/vanthienha199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>I'm a final-year student at University of Central Florida</em><br>
+  <em>📚 Double major in Computer Science & Economics</em><br>
+  <em>🌐 Backend Developer · AI Enthusiast · Web & App Builder</em><br>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Featured Projects
+
+- 🗣️ [**Talk To Listen**](https://apps.apple.com/ca/app/talk-to-listen/id6478241209): Voice-activated characters that listen, talk, and interact with you  
+- 🏋️ [**PowerLeveling**](https://github.com/vanthienha199/powerleveling-gym-app): A gamified fitness tracker with AI progress analysis  
+- 📚 [**StoryTime**](https://www.storybooks.site): Generate, narrate, and host AI-powered children’s stories  
+
+---
+
+### 🌱 I’m Currently Working With
+- GPT-4 Turbo, OpenAI SDK, ElevenLabs
+- Node.js, Express, PostgreSQL, MongoDB
+- React, Tailwind, Expo, TypeScript
+- Docker, AWS S3, Render, Vercel
+
+---
+
+### 📫 Connect with Me
+
+- 📬 Email: halevanthien@gmail.com
+
+---
